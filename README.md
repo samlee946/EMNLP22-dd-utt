@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository stores code for our paper _End-to-End Neural Discourse Deixis Resolution in Dialogue_. If you use our
+This repository stores code for our paper _[End-to-End Neural Discourse Deixis Resolution in Dialogue](https://aclanthology.org/2022.emnlp-main.778/)_. If you use our
 code, please consider citing our paper.
 
 ```
